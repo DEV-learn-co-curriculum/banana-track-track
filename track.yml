@@ -2,4 +2,7 @@
 track:
     title: Banana Track
     uuid: b638a6b7-c13a-45d1-b5ea-b782299b5e05
-    topics: []
+    topics:
+    -   title: Apples
+        uuid: c13078d5-4f9a-4478-9a81-a1830b579448
+        units: []
