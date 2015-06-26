@@ -5,7 +5,4 @@ track:
     topics:
     -   title: Apples
         uuid: c13078d5-4f9a-4478-9a81-a1830b579448
-        units:
-        -   title: peanut butter
-            uuid: a3c34ac9-204f-4cde-9ef8-34963cb85b80
-            lessons: []
+        units: []
